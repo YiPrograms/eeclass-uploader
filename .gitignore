@@ -1,0 +1,10 @@
+__pycache__
+
+data.*.py
+!data.example.py
+
+*.tsv
+*.csv
+*.xlsx
+
+PHPSESSID
